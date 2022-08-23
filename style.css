@@ -52,7 +52,8 @@
     text-align: center;
     position: relative;
     background-color: #fff;
-    padding: 20px;
+    padding: 30px 20px;
+    max-width:90%;
     width: 500px;
     
 }
